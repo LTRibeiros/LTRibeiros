@@ -19,7 +19,7 @@
 
 🌟 O que você encontrará aqui  
 1. **Projetos Acadêmicos e Pessoais**:  
-   - Scripts em Python focados em problemas do mundo real.  
+   - Scripts em Python, Java, MySQL focados em problemas do mundo real.  
    - Banco de dados integrados a sistemas.  
 2. **Projetos para Pequenos Negócios**:  
    - Soluções simples e acessíveis, voltadas a otimizar processos com custo-benefício.  
@@ -27,11 +27,24 @@
    - Explorando tecnologias e frameworks que complementem meu crescimento na área.  
 
 📈 Objetivos  
-- Criar soluções que ajudem empresas e indivíduos a superar desafios com **tecnologia eficiente** e **inovadora**.  
-- Colaborar em projetos que envolvam análise de dados e desenvolvimento de sistemas.  
+- Colaborar em projetos que envolvam análise de dados e desenvolvimento de sistemas.
+
+  Back-End:
+![image](https://github.com/user-attachments/assets/b436f92f-a699-4f0c-9adc-5ecf88140db2)
+![image](https://github.com/user-attachments/assets/433ae2c6-be28-4ea8-b1b9-3e09c2c0ddf0)
+![image](https://github.com/user-attachments/assets/dd19c7cb-dde1-441b-a577-f008e6ebced3)
+
 
 📬 Vamos nos conectar!  
+
 Adoro trocar ideias sobre tecnologia, novos projetos e colaborações. Fique à vontade para me contactar:  
 - 🌐 LinkedIn: https://www.linkedin.com/in/gabriel-ribeiro2106/ 
 - 📧 E-mail:chucrutsgabriel@gmail.com
+
+
+
+
+
+
+  
 
