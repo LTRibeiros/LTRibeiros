@@ -13,7 +13,7 @@
 
 
 🚀 **Sobre mim**
-- 💻 Experiência acadêmica e autodidata em **Python, Java, SQL e Bancos de dados.**
+- 💻 Experiência acadêmica e autodidata em **Python, Java, HTML, CSS, JavaScript, SQL e Bancos de dados.**
 
 - 🛠️ Projetos em andamento:  
   - **Aplicação para pequenos negócios**: uma solução de banco de dados integrada ao Python, com interface para cadastro de itens.  
@@ -21,7 +21,7 @@
 
 🌟 O que você encontrará aqui  
 1. **Projetos Acadêmicos e Pessoais**:  
-   - Scripts em Python, Java, MySQL focados em problemas do mundo real.  
+   - Scripts em Python, Java, MySQL, HTML e CSS.  
    - Banco de dados integrados a sistemas.
      
 2. **Projetos para Pequenos Negócios**:  
