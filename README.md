@@ -1,8 +1,8 @@
-<h3 align="left">Eu sou o Gabriel, desenvolvedor full-stack com foco em programação Java e Python para analise de dados!<br>I'm Gabriel, a full-stack developer focused on Java and Python programming for data analysis!</h3>
+<h3 align="left">I'm Gabriel, a full-stack developer focused on Java and Python programming for data analysis!</h3>
 
 ###
 
-<p align="left">👋 Bem-vindo ao meu GitHub!<br>🎓 Sou um estudante dedicado em Analise e Desenvolvimento de Sistemas. Com foco em análise de dados, programação e desenvolvimento web.<br><br>👋 Welcome to my GitHub! <br>🎓 I am a dedicated student in Systems Analysis and Development, with a focus on data analysis, programming, and web development.</p>
+<p align="left">👋 Welcome to my GitHub! <br>🎓 I am a dedicated student in Systems Analysis and Development, with a focus on data analysis, programming, and web development.</p>
 
 ###
 
@@ -38,7 +38,7 @@
 
 ###
 
-<h4 align="center">Bibliotecas em Python para analise de dados // Python libraries for data analysis</h4>
+<h4 align="center">Python libraries for data analysis</h4>
 
 ###
 
@@ -50,7 +50,7 @@
 
 ###
 
-<h6 align="center">Programando nos sistemas operacionais // Programming on operating systems</h6>
+<h6 align="center">Programming on operating systems</h6>
 
 ###
 
