@@ -77,3 +77,8 @@
 </div>
 
 ###
+
+# README em diferentes idiomas
+- [English](README.md)
+- [Português](README.pt.md)
+
