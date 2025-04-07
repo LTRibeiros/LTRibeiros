@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Bem-vindo ao meu GitHub!<br>🎓 Sou um estudante dedicado em Analise e Desenvolvimento de Sistemas. Com foco em análise de dados, programação e desenvolvimento web.<br><br>👋 Welcome to my GitHub!<br><hr>🎓 I am a dedicated student in Systems Analysis and Development, with a focus on data analysis, programming, and web development.</p>
+<p align="left">👋 Bem-vindo ao meu GitHub!<br>🎓 Sou um estudante dedicado em Analise e Desenvolvimento de Sistemas. Com foco em análise de dados, programação e desenvolvimento web.<br><br>👋 Welcome to my GitHub! <br>🎓 I am a dedicated student in Systems Analysis and Development, with a focus on data analysis, programming, and web development.</p>
 
 ###
 
