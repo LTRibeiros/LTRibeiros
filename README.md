@@ -1,19 +1,8 @@
-### GABRIEL RIBEIRO 
-
-<p align="left">👋 Bem-vindo ao meu GitHub!<br><br>🎓 Sou um estudante dedicado em Analise e Desenvolvimento de Sistemas. Com foco em análise de dados, programação e desenvolvimento web.</p>
-
-
-<h2 align="center">Front-End</h2>
+<h3 align="left">Eu sou o Gabriel, desenvolvedor full-stack com foco em programação Java e Python para analise de dados!<br>I'm Gabriel, a full-stack developer focused on Java and Python programming for data analysis!</h3>
 
 ###
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-</div>
+<p align="left">👋 Bem-vindo ao meu GitHub!<br>🎓 Sou um estudante dedicado em Analise e Desenvolvimento de Sistemas. Com foco em análise de dados, programação e desenvolvimento web.<br><br>👋 Welcome to my GitHub!<br><hr>🎓 I am a dedicated student in Systems Analysis and Development, with a focus on data analysis, programming, and web development.</p>
 
 ###
 
@@ -29,11 +18,27 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" alt="jupyter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
 </div>
 
 ###
 
-<h4 align="center">Bibliotecas em Python para analise de dados</h4>
+<h2 align="center">Front-End</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+</div>
+
+###
+
+<h4 align="center">Bibliotecas em Python para analise de dados // Python libraries for data analysis</h4>
 
 ###
 
@@ -41,9 +46,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://pydata.org/wp-content/uploads/2016/07/matplotlib-logo-300.png" height="40" alt="matplotlib logo" />
 </div>
+
+###
+
+<h6 align="center">Programando nos sistemas operacionais // Programming on operating systems</h6>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+</div>
+
+###
+
+<h3 align="left"></h3>
 
 ###
 
@@ -60,5 +79,3 @@
 </div>
 
 ###
-  
-
