@@ -79,3 +79,7 @@
 </div>
 
 ###
+
+# README in different languages: 
+- [English](README.md)
+- [Português](README.pt.md)
