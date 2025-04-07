@@ -2,13 +2,6 @@
 
 <p align="left">👋 Bem-vindo ao meu GitHub!<br><br>🎓 Sou um estudante dedicado em Analise e Desenvolvimento de Sistemas. Com foco em análise de dados, programação e desenvolvimento web.</p>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LTRibeiros&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
 
 <h2 align="center">Front-End</h2>
 
