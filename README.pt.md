@@ -36,7 +36,7 @@
 
 ###
 
-<h4 align="center">Bibliotecas em Python para analise de dados </h4>
+<h4 align="center">Bibliotecas em Python</h4>
 
 ###
 
