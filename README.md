@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Welcome to my GitHub! <br>🎓 I am a dedicated student in Systems Analysis and Development, with a focus on data analysis, programming, and web development.</p>
+<p align="left">👋 Welcome to my GitHub!<br>🎓 I am a dedicated student in Systems Analysis and Development, with a focus on data analysis, programming, and web development.</p>
 
 ###
 
@@ -38,7 +38,7 @@
 
 ###
 
-<h4 align="center">Python libraries for data analysis</h4>
+<h4 align="center">Python libraries</h4>
 
 ###
 
@@ -47,7 +47,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
   <img width="12" />
-  <img src="https://pydata.org/wp-content/uploads/2016/07/matplotlib-logo-300.png" height="40" alt="matplotlib logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="sqlalchemy logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/flask/000000" height="40" alt="flask logo"  />
 </div>
 
 ###
