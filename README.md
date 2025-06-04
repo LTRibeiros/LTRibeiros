@@ -1,4 +1,4 @@
-<h3 align="left">I'm Gabriel, a full-stack developer focused on Java and Python programming for data analysis!</h3>
+<h3 align="left">I'm Gabriel, a full-stack developer focused on Web Development and Python programming for data analysis!</h3>
 
 ###
 
