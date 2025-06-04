@@ -1,4 +1,4 @@
-<h3 align="left">Eu sou o Gabriel, desenvolvedor full-stack com foco em Desenvolviment Web e Python para analise de dados! </h3>
+<h3 align="left">Eu sou o Gabriel, desenvolvedor full-stack com foco em Desenvolvimento Web e Python para analise de dados! </h3>
 
 <p align="left">👋 Bem-vindo ao meu GitHub!<br>🎓 Sou um estudante dedicado em Analise e Desenvolvimento de Sistemas. Com foco em análise de dados, programação e desenvolvimento web. </p>
 
